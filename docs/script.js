@@ -43,7 +43,13 @@ const randomChallenges = [
     "Bebe por cada tatuaje o piercing que tengas",
     "Bebe por cada pulsera o accesorio que lleves",
     "Verdad o Reto", "Verdad o Reto", "Verdad o Reto"
-
+    "Alguna vez te ha gustado tu mejor amig@","Alguna vez te ha gustado tu mejor amig@",
+  "Todos: bebe si alguna vez te ha gustado tu mejor amig@","Todos: bebe si alguna vez te ha gustado tu mejor amig@",
+  "Todos: bebe si alguna vez te ha gustado tu mejor amig@","Todos: bebe si alguna vez te ha gustado tu mejor amig@",
+  "Todos: bebe si alguna vez te ha gustado tu mejor amig@","Todos: bebe si alguna vez te ha gustado tu mejor amig@",
+  "Beben todos los que van a dormir juntos en la misma cama hoy", "Beben todos los que van a dormir juntos en la misma cama hoy",
+  "Beben todos los que van a dormir juntos en la misma cama hoy","Beben todos los que van a dormir juntos en la misma cama hoy","Beben todos los que van a dormir juntos en la misma cama hoy","Beben todos los que van a dormir juntos en la misma cama hoy","Beben todos los que van a dormir juntos en la misma cama hoy","Beben todos los que van a dormir juntos en la misma cama hoy",
+  "Que beban los que se liarian con alguien de esta sala","Que beban los que se liarian con alguien de esta sala","Que beban los que se liarian con alguien de esta sala","Que beban los que se liarian con alguien de esta sala","Que beban los que se liarian con alguien de esta sala","Que beban los que se liarian con alguien de esta sala","Que beban los que se liarian con alguien de esta sala",
 ];
 
 function getSpiralPath() {
